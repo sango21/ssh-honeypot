@@ -1,8 +1,3 @@
-honeypy/
-├── __init__.py
-├── ssh_honeypot.py
-└── honeypy.py
-
 # README.md
 
 ## SSH Honeypot
