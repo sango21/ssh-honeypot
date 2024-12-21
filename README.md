@@ -52,12 +52,3 @@ paramiko
 logging
 ```
 
----
-
-### Requirements.txt
-
-Add these dependencies to requirements.txt:
-
-```bash
-paramiko==2.11.0
-```
